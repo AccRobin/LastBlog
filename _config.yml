@@ -600,7 +600,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
               <script>
                 var myname = "Acc";
-                var profile = "i@wu-kan.cn";
+                var profile = "accrobin.github.io";
                 var usage = "payment";
                 var wechat = "wxp://f2f0BhUoIC_9gex7-tC2PRvVuoA486mK5WyC";
                 var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQ4MPjnAcY8IerggYgZA%3D%3D_xxx_sign&u=1939399136&n=%E5%A4%A9%E6%84%8F";
