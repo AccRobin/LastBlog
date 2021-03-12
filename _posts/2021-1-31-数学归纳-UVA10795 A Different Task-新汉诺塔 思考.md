@@ -1,4 +1,8 @@
-## UVA10795 A Different Task-新汉诺塔 思考
+---
+title: A Different Task-新汉诺塔 笔记
+tag: 数学 递推 UVA 笔记
+---
+# UVA10795 A Different Task-新汉诺塔 笔记
 
 ```cpp
 //UVA10795 A Different Task
