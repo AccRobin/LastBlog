@@ -1,6 +1,6 @@
 ---
-title: Turning in Homework G 笔记
-tag: DP 贪心 USACO 笔记
+title: Turning in Homework G 题解
+tag: DP 题解
 ---
 # P2339 [USACO04OPEN]Turning in Homework G 笔记
 

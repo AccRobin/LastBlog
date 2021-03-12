@@ -1,6 +1,6 @@
 ---
-title: A Different Task-新汉诺塔 笔记
-tag: 数学 递推 UVA 笔记
+title: A Different Task-新汉诺塔 题解
+tag: 数学 递推 题解
 ---
 # UVA10795 A Different Task-新汉诺塔 笔记
 
