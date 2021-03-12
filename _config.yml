@@ -599,16 +599,15 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
           append_to_head:
             - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
               <script>
-                var myname = "WuK";
+                var myname = "Acc";
                 var profile = "i@wu-kan.cn";
                 var usage = "payment";
                 var wechat = "wxp://f2f0BhUoIC_9gex7-tC2PRvVuoA486mK5WyC";
-                var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQ77zFwQMY-6u57gU%3D_xxx_sign&u=942759535&n=%E8%94%9A";
-                var paypal = "https://paypal.me/wukan0621";
+                var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQ4MPjnAcY8IerggYgZA%3D%3D_xxx_sign&u=1939399136&n=%E5%A4%A9%E6%84%8F";
                 var multilingual = false;
                 var branding = false;
                 var title = "我是小螃蟹，我没有钳";
-                var subtitle = "awa  " + myname + "  awa";
+                var subtitle = "球球你，给可爱的" + myname + "捐点钱吧";
                 var qrcodeapi = "https://www.zhihu.com/qrcode?url=";
                 var gravatar_url = "https://gravatar.loli.net/avatar/";
               </script>
