@@ -37,11 +37,13 @@ Welcome to the Wonderful World of!
 ## 不是为了改变世界
 ## 而是不让世界改变我们
 
+<!-- .slide vertical=true -->
+
 - 若要质疑，请联系我
 - 若有思考，请联系我
 - 若要交友，请联系我
 
-<!-- .slide vertical=true -->
+<!-- .slide -->
 
 ## Welcome to the 
 ## Wonderful World of!
