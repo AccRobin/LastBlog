@@ -24,8 +24,10 @@ Welcome to the Wonderful World of!
 
 <!-- .slide -->
 
-## 要只顾嬉游，我已太老；
-## 要无所要求，我又太年轻。
+## 要只顾嬉游，
+## 我已太老；
+## 要无所要求，
+## 我又太年轻。
 
 <!-- .slide vertical=true -->
 
@@ -34,8 +36,8 @@ Welcome to the Wonderful World of!
 <!-- .slide -->
 
 ## 我们一路奋战，
-## 不是为了改变世界
-## 而是不让世界改变我们
+## 不是为了改变世界，
+## 而是不让世界改变我们。
 
 <!-- .slide vertical=true -->
 
