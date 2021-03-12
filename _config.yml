@@ -601,7 +601,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               <script>
                 var myname = "Acc";
                 var profile = "https://accrobin.github.io/assets/image/head.jpg";
-                var usage = "donate";
+                var usage = "plyment";
                 var wechat = "wxp://f2f0BhUoIC_9gex7-tC2PRvVuoA486mK5WyC";
                 var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQ4MPjnAcY8IerggYgZA%3D%3D_xxx_sign&u=1939399136&n=%E5%A4%A9%E6%84%8F";
                 var multilingual = false;
