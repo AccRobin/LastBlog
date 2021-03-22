@@ -36,7 +36,7 @@ $$
 
 　　本题注意分类讨论！
 
-　　代码：
+## 代码：
 
 ```cpp
 //CF77B Falling Anvils
