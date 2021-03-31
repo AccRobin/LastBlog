@@ -1,6 +1,6 @@
 ---
 title: Falling Anvils 题解
-tag: 数学 概率与期望 题解
+tag: 数学 概率与期望
 ---
 # CF77B Falling Anvils 题解
 

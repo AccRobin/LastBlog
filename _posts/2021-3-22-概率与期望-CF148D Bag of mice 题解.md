@@ -1,6 +1,6 @@
 ---
 title: Bag of mice 题解
-tag: 数学 概率与期望 题解
+tag: 数学 概率与期望
 ---
 # CF148D Bag of mice 题解
 

@@ -1,6 +1,6 @@
 ---
 title: Turning in Homework G 题解
-tag: DP 题解
+tag: DP
 ---
 # P2339 [USACO04OPEN]Turning in Homework G 笔记
 

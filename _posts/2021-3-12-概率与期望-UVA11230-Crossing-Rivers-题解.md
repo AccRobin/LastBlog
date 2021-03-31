@@ -1,6 +1,6 @@
 ---
 title: Crossing Rivers 题解
-tag: 数学 概率与期望 题解
+tag: 数学 概率与期望
 ---
 # UVA11230 Crossing Rivers 题解
 
